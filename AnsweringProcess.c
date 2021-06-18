@@ -20,7 +20,6 @@ char* messages[] = {
 /*-----------------------------------------------------------------
  *  Main routine that loops and forwards requests and eventually
  *  makes it public to the SendingProcess. stops when "bye" is received.
- *  Initialize everything needed in here.
  *
  *  @param argc number of arguments given
  *  @param argv char* that points to the argument
